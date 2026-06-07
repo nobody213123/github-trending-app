@@ -16,9 +16,9 @@ from dataclasses import dataclass
 # Current version
 __version__ = "1.0.0"
 
-# GitHub repository info (请替换为你的 GitHub 用户名和仓库名)
-REPO_OWNER = "yourusername"  # TODO: 替换为你的 GitHub 用户名
-REPO_NAME = "github-trending-app"  # TODO: 替换为你的仓库名
+# GitHub repository info
+REPO_OWNER = "nobody213123"
+REPO_NAME = "github-trending-app"
 
 
 @dataclass

@@ -2,8 +2,6 @@
 
 自动抓取 GitHub 热门项目并生成可视化周报。
 
-> ⚠️ **使用前请修改**: 在 `updater.py` 中将 `REPO_OWNER` 替换为你的 GitHub 用户名
-
 ## ✨ 功能特点
 
 - 📊 **自动抓取** - 每周自动获取 GitHub Trending 项目
@@ -22,7 +20,7 @@
 
 ### 方式一：下载可执行文件（推荐）
 
-前往 [Releases](https://github.com/yourusername/github-trending-app/releases) 下载最新版本：
+前往 [Releases](https://github.com/nobody213123/github-trending-app/releases) 下载最新版本：
 
 | 平台 | 文件 |
 |------|------|
@@ -34,7 +32,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/github-trending-app.git
+git clone https://github.com/nobody213123/github-trending-app.git
 cd github-trending-app
 
 # 安装依赖
